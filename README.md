@@ -1,2 +1,3 @@
-# Development
-Community suggestions/ideas.
+# Development Repository
+Suggest ideas and updates in the issues section
+
